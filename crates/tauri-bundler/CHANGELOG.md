@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.10.3]
+
+### Bug Fixes
+
+- [`d62e5d9c0`](https://www.github.com/tauri-apps/tauri/commit/d62e5d9c0878b6fb327543cc9be50aa1696ee23c) ([#16184](https://www.github.com/tauri-apps/tauri/pull/16184) by [@ThomasBraun1979](https://www.github.com/tauri-apps/tauri/../../ThomasBraun1979)) Fix NSIS installer leaving `uninstall.exe` and the installation directory behind when uninstalling an existing installation from the installer.
+
+### Dependencies
+
+- [`5a2953e55`](https://www.github.com/tauri-apps/tauri/commit/5a2953e555b4444bed68bd5324ea13ad85a6c06e) ([#16237](https://www.github.com/tauri-apps/tauri/pull/16237) by [@Legend-Master](https://www.github.com/tauri-apps/tauri/../../Legend-Master)) Updated NSIS to 3.13
+
 ## [2.10.2]
 
 ### Bug Fixes

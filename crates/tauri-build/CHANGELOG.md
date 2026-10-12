@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.7.3]
+
+### Bug Fixes
+
+- [`225fb205a`](https://www.github.com/tauri-apps/tauri/commit/225fb205a9b13e87bb71b599d896cdd9dbe7a672) ([#16247](https://www.github.com/tauri-apps/tauri/pull/16247) by [@Legend-Master](https://www.github.com/tauri-apps/tauri/../../Legend-Master)) Switch back to `static_vcruntime` crate, this fixes a linking error when the crate using `tauri_build::build` is used as library.
+
 ## [2.7.2]
 
 ### Dependencies

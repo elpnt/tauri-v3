@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.12.4]
+
+### Dependencies
+
+- Upgraded to `tauri-build@2.7.3`
+
 ## [2.12.3]
 
 ### Bug Fixes
